@@ -1,10 +1,10 @@
 # Branded Members
 
-Interview assignment @ [https://www.branded.co.il](https://www.branded.co.il)
+Fullstack interview assignment @ [Branded Apps](https://www.linkedin.com/company/branded-il)
 
 ## How to engage the app:
 
-Well first I ought to tell you that there are 2 apps within this project:
+There are 2 apps within this project:
 
 - [Frontend app](https://github.com/belferink1996/Branded-Members/tree/main/frontend) has the user interface
 - [Backend app](https://github.com/belferink1996/Branded-Members/tree/main/backend) has the database
